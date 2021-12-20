@@ -290,7 +290,7 @@ msgstr ""
 
 #: src/Views/WelcomeView.vala:34
 msgid "For the best protection, always use a VPN."
-msgstr "Als je dat ook wilt voorkomen, gebruik dan een VPN."
+msgstr "Voor de beste bescherming, gebruik altijd een VPN."
 
 #. TRANSLATORS: Includes an ellipsis (…) in English to signify the action will be performed in another menu
 #: src/Widgets/BrowserButton.vala:50
